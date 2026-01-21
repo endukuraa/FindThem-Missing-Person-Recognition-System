@@ -1,4 +1,4 @@
-const API_BASE_URL = "backen-production-be04.up.railway.app";
+const API_BASE_URL = "https://backen-production-be04.up.railway.app";
 
 export const registerPerson = async (data, photos) => {
   const formData = new FormData();
