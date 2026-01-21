@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://backend-production-723b.up.railway.app";
+const API_BASE_URL = "backen-production-be04.up.railway.app";
 
 export interface PersonData {
   name: string;
